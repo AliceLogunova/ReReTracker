@@ -3,3 +3,5 @@ matplotlib
 plotly
 pytest
 pydantic
+PySide6
+pyqtgraph
