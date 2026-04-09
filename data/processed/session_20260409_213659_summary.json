@@ -1,0 +1,13 @@
+{
+  "session_id": "session_20260409_213659",
+  "start_time": 1775759819.3766754,
+  "end_time": 1775759824.8926165,
+  "record_count": 11,
+  "mean_concentration": 0.7441324234082252,
+  "mean_relaxation": 0.8757885133339975,
+  "mean_fatigue": 0.4220370758428025,
+  "artifact_ratio": 0.0,
+  "raw_csv_path": "data\\raw\\session_20260409_213659.csv",
+  "mode": "mock",
+  "duration_seconds": 5.515941143035889
+}
