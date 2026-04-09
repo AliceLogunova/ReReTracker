@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -m pytest tests/ -v)",
-      "Bash(pip install:*)",
-      "Bash(python src/main.py --mode mock --duration 5)"
-    ]
-  }
-}
