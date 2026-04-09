@@ -1,0 +1,1 @@
+DLL_PATH = "capsule_api/bin/CapsuleClient.dll"
